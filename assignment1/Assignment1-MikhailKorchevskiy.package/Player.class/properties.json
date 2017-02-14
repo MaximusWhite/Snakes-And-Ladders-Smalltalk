@@ -1,0 +1,18 @@
+{
+	"category" : "Assignment1",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MikhailKorchevskiy 2/4/2017 12:46",
+	"instvars" : [
+		"name",
+		"position",
+		"a",
+		"d",
+		"e" ],
+	"name" : "Player",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

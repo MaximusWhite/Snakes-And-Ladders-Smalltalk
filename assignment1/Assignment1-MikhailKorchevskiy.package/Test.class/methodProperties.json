@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "MikhailKorchevskiy 2/13/2017 17:54",
+		"testBigBoard" : "MikhailKorchevskiy 2/13/2017 18:17",
+		"testMiniBoard" : "MikhailKorchevskiy 2/13/2017 18:41",
+		"testPlayersFillingEntireField" : "MikhailKorchevskiy 2/13/2017 18:24",
+		"testRead0" : "MikhailKorchevskiy 2/13/2017 17:55",
+		"testRead1" : "MikhailKorchevskiy 2/13/2017 17:58",
+		"testRead2" : "MikhailKorchevskiy 2/13/2017 17:58",
+		"testRead3" : "MikhailKorchevskiy 2/13/2017 17:59",
+		"testRead4" : "MikhailKorchevskiy 2/13/2017 18:02",
+		"testTurnsAfterWin" : "MikhailKorchevskiy 2/13/2017 18:32" } }

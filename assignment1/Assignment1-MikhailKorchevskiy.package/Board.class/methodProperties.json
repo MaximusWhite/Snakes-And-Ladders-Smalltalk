@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"checkWin" : "MikhailKorchevskiy 2/13/2017 00:46",
+		"cleanCellAt:" : "MikhailKorchevskiy 2/13/2017 00:29",
+		"dice:" : "MikhailKorchevskiy 2/13/2017 00:23",
+		"executeTurn" : "MikhailKorchevskiy 2/13/2017 17:59",
+		"get" : "MikhailKorchevskiy 2/13/2017 17:41",
+		"initialize:x:y:" : "MikhailKorchevskiy 2/13/2017 18:01",
+		"makeBorder" : "MikhailKorchevskiy 2/11/2017 14:13",
+		"newSpecial:at:" : "MikhailKorchevskiy 2/12/2017 13:11",
+		"popDice" : "MikhailKorchevskiy 2/13/2017 00:24",
+		"putPlayer:at:" : "MikhailKorchevskiy 2/13/2017 18:40",
+		"setupPlayers:" : "MikhailKorchevskiy 2/12/2017 17:10",
+		"showBoard:" : "MikhailKorchevskiy 2/13/2017 17:57" } }

@@ -1,0 +1,4 @@
+access
+getSpecial
+
+^special

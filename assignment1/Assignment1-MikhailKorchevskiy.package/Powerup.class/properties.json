@@ -1,0 +1,15 @@
+{
+	"category" : "Assignment1",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MikhailKorchevskiy 2/12/2017 12:07",
+	"instvars" : [
+		"type",
+		"end" ],
+	"name" : "Powerup",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"category" : "Assignment1",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MikhailKorchevskiy 2/12/2017 12:07",
+	"instvars" : [
+		"players",
+		"brd",
+		"x",
+		"y",
+		"dice",
+		"diceCpy",
+		"winner" ],
+	"name" : "Board",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

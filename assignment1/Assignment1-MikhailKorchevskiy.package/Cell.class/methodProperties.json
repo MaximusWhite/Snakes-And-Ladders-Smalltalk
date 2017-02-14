@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"getIndex" : "MikhailKorchevskiy 2/11/2017 10:06",
+		"getSpecial" : "MikhailKorchevskiy 2/10/2017 14:47",
+		"initializeWithIndex:" : "MikhailKorchevskiy 2/12/2017 16:56",
+		"player" : "MikhailKorchevskiy 2/12/2017 16:20",
+		"printFirst:" : "MikhailKorchevskiy 2/11/2017 14:42",
+		"printSecond:" : "MikhailKorchevskiy 2/12/2017 13:54",
+		"setPlayer:" : "MikhailKorchevskiy 2/13/2017 02:04",
+		"setSpecial:" : "MikhailKorchevskiy 2/12/2017 13:10" } }

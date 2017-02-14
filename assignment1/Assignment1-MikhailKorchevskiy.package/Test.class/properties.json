@@ -1,0 +1,14 @@
+{
+	"category" : "Assignment1",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"game" ],
+	"name" : "Test",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"category" : "Assignment1",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Mikhailorchevskiy 2/3/2017 17:28",
+	"instvars" : [
+		"size",
+		"x",
+		"y",
+		"turns",
+		"aBoard" ],
+	"name" : "Game",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"board:" : "MikhailKorchevskiy 2/12/2017 16:40",
+		"dice:" : "MikhailKorchevskiy 2/13/2017 00:17",
+		"ladder:" : "MikhailKorchevskiy 2/13/2017 17:19",
+		"players:" : "MikhailKorchevskiy 2/12/2017 17:10",
+		"powerup:" : "MikhailKorchevskiy 2/12/2017 14:55",
+		"printOn:" : "MikhailKorchevskiy 2/10/2017 15:35",
+		"readFrom:" : "MikhailKorchevskiy 2/12/2017 23:25",
+		"snake:" : "MikhailKorchevskiy 2/13/2017 17:30",
+		"turns:" : "MikhailKorchevskiy 2/12/2017 23:47" } }
